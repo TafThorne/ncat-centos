@@ -1,4 +1,4 @@
-# netcat & Debian
+# ncat (a netcat rewite) & CentOS 
 
 FROM centos
 LABEL \
